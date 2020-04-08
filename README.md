@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-conceitos-reactjs/master/assets/header-desafios.png)
+![header](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-conceitos-react-native/master/assets/header-desafios.png)
 
 <h3 align="center">
   Desafio Rocket Seat: Conceitos do ReactJS
@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![image-example](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-conceitos-reactjs/master/assets/bootcamp.jpg)
+![image-example](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-conceitos-react-native/master/assets/bootcamp.jpg)
 
 ## :rocket: Sobre o desafio
 
