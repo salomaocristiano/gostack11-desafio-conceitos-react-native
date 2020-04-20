@@ -34,6 +34,12 @@
 
 </p>
 
+<p align="center">
+
+![image-example](https://raw.githubusercontent.com/salomaocristiano/gostack11-desafio-conceitos-react-native/master/assets/test.jpg)
+
+</p>
+
 ## :rocket: Sobre o desafio
 
 Criar uma aplicação que irá armazenar repositórios do seu portfólio utilizando React Native, já desenvolvido o backend utilizando o Node.js, e no último desafio em ReactJS.
